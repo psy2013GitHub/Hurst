@@ -1,7 +1,7 @@
 Hurst
 =====
 
->Hurst exponent: <br />
+Hurst exponent: <br />
 >>**DDFA**;         <br />
 >>**Wavelet Based** <br />
   
