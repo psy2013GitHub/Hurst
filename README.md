@@ -2,8 +2,8 @@ Hurst
 =====
 
 Hurst exponent: <br />
->>**DDFA**;         <br />
->>**Wavelet Based** <br />
+>**DDFA**;         <br />
+>**Wavelet Based** <br />
   
   
 Ref: <br />
